@@ -1,3 +1,7 @@
 body{
 	background-color: #ccc;
 }
+div{
+	width: 100px;
+	height: 100px;
+}
